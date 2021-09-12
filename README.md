@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper game
+Minesweeper game I created in 2020
